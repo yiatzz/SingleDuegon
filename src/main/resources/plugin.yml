@@ -1,0 +1,6 @@
+name: SingleDungeon
+author: yiatzz
+version: 1.0
+main: io.github.dungeon.DungeonPlugin
+commands:
+  start:
